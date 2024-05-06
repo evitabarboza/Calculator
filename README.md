@@ -29,6 +29,3 @@ This is a simple calculator web application built using HTML, CSS, and JavaScrip
 - HTML
 - CSS
 - JavaScript
-
-### Live Demo
-You can see a live demo [here](https://evitabarboza.github.io/calculator)
