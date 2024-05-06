@@ -1,4 +1,4 @@
-### **Calculator App**
+# Calculator App
 
 This is a simple calculator web application built using HTML, CSS, and JavaScript. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division, as well as percentage calculations.
 
@@ -29,3 +29,6 @@ This is a simple calculator web application built using HTML, CSS, and JavaScrip
 - HTML
 - CSS
 - JavaScript
+
+### Credits:
+This project is created by Evita Sharon Barboza. Feel free to contribute and customize it according to your needs.
